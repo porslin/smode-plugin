@@ -1,0 +1,60 @@
+#sister{
+    background-color: rgb(249, 245, 240);
+    width: 95%;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(7, 56, 7);
+}
+
+#brother4 {
+    padding-top: 20%;
+}
+
+div > span {
+    color: black;
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+
+#brother5 >input{
+    color: white;
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    margin-top: 25px;
+    background: rgba(58, 0, 51, 0.776);
+    border-radius: 20px;
+    border: none;
+}
+
+
+ .flex-container {
+     display: flex;
+     flex-wrap: wrap;
+ }
+
+ .table-container {
+     margin: 0 10px;
+ }
+
+ table {
+     border-collapse: collapse;
+     width: 50%;
+ }
+
+ th,
+ td {
+     border: 1px solid #ddd;
+     padding: 8px;
+     text-align: left;
+ }
+
+ th {
+     background-color: #f2f2f2;
+ }
+
+ .questions-col {
+    width: 80%;
+ }
